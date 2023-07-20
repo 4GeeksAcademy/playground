@@ -1,0 +1,27 @@
+[
+  {
+    "username": "danielmoret",
+    "todo": [
+      {
+        "id": 1,
+        "label": "example task",
+        "done": false
+      },
+      {
+        "id": 1,
+        "label": "example task",
+        "done": false
+      },
+      {
+        "id": 1,
+        "label": "example task",
+        "done": false
+      },
+      {
+        "id": 1,
+        "label": "example task",
+        "done": false
+      }
+    ]
+  }
+]
